@@ -1,3 +1,4 @@
+#include <boost/format.hpp>
 #pragma once
 #include "config/slf_config.h"
 #include "predefined.h"
